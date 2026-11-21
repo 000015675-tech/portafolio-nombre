@@ -9,7 +9,7 @@ function Contacto() {
       </Typography>
 
       <Typography sx={{ color: '#aaa', mt: 2 }}>
-        Ponte en contacto.
+        Ponte en contact
       </Typography>
     </Box>
   )
