@@ -83,7 +83,7 @@ function Navbar() {
 
         <Typography
           component="a"
-          href="https://github.com"
+          href="https://github.com/000015675-tech/portafolio-nombre.git"
           target="_blank"
           sx={{
             color: '#aaa',
