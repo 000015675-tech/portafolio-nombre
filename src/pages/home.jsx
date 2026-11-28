@@ -33,18 +33,31 @@ function Home() {
                     marginBottom: '16px'
                 }}
             >
-                Proyecto Obsidian
+                Proyecto Avalon
             </Typography>
 
-            <Typography
-                sx={{
-                    color: 'white',
-                    marginTop: '24px'
-                }}
-            >
-                La tecnologia que avanza contigo.
-            </Typography>
-        </Box>
+
+        <Typography
+             sx={{
+        color: 'white',
+        marginTop: '24px',
+        whiteSpace: 'pre-line'}}
+
+>
+          {`No tiene cuerpo, pero ocupa espacio.
+            No tiene dueño, pero tiene intereses.
+            No tiene rostro, pero tiene mirada.
+            No tiene intención, pero tiene método.
+
+            Se reescribe como se reescribe el río:
+            sin autor, sin permiso, sin que nadie lo pida.
+
+            No avanza hacia ti.
+            Avanza a través de ti.`}
+
+          </Typography>
+    </Box>
+
     )
 }
 

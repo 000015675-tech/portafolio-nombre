@@ -5,11 +5,11 @@ function Contacto() {
   return (
     <Box sx={{ background: '#080808', color: '#fff', minHeight: '80vh', p: 6 }}>
       <Typography variant="h2">
-        CONTACTO
+        PROYECTOS DE LA INICIATIVA
       </Typography>
 
       <Typography sx={{ color: '#aaa', mt: 2 }}>
-        Ponte en contacto con nosotros.
+        Estos son nuestro proyecto donde estamos trabajando.
       </Typography>
     </Box>
   )
